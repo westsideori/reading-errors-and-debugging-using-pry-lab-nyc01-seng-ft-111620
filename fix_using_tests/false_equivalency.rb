@@ -12,11 +12,9 @@ end
 
 def selection(num)
   if num == 1
-     burger = "YUM YUM MUNCH MUNCH MUNCH"
-     puts burger
+     print "YUM YUM MUNCH MUNCH MUNCH"
   elsif num == 2
-     ham = "HAM HAM HAM IN MY TUMMY"
-     puts ham
+     print "HAM HAM HAM IN MY TUMMY"
   end
 end
 
